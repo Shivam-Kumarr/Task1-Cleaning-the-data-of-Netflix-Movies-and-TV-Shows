@@ -15,6 +15,3 @@ This project focuses on cleaning and preparing the `netflix_titles.csv` dataset 
     * The original `duration` column was then removed.
 7.  **Data Type Correction:** Ensured all columns have appropriate data types, especially for numerical and date fields.
 
-## Output:
-
-The cleaned data is saved to `netflix_titles_cleaned_v2.csv`.
